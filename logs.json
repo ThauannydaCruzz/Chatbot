@@ -1,0 +1,32 @@
+[
+  {
+    "Anomaly Score": "15",
+    "Data": "17/May/2025",
+    "Hora": "15:56:41",
+    "ID": "53daca0b",
+    "IP Atacante": "172.16.117.1",
+    "M\u00e9todo": "GET",
+    "T\u00edtulos do Ataque": [
+      "NoScript XSS InjectionChecker: HTML Injection",
+      "Javascript method detected",
+      "Inbound Anomaly Score Exceeded (Total Score: 15)",
+      "XSS Filter - Category 1: Script Tag Vector",
+      "Anomaly Scores: (Inbound Scores: blocking=15, detection=15, per_pl=15-0-0-0, threshold=5) - (Outbound Scores: blocking=0, detection=0, per_pl=0-0-0-0, threshold=4) - (SQLI=0, XSS=15, RFI=0, LFI=0, RCE=0, PHPI=0, HTTP=0, SESS=0, COMBINED_SCORE=15)"
+    ],
+    "URL": "/produtos/%3Cscript%3Ealert(%22oi%22)%3C/script%3E"
+  },
+  {
+    "Anomaly Score": "10",
+    "Data": "17/May/2025",
+    "Hora": "15:59:07",
+    "ID": "53daca0b",
+    "IP Atacante": "172.16.117.1",
+    "M\u00e9todo": "GET",
+    "T\u00edtulos do Ataque": [
+      "Inbound Anomaly Score Exceeded (Total Score: 10)",
+      "SQL Injection Attack Detected via libinjection",
+      "Anomaly Scores: (Inbound Scores: blocking=10, detection=10, per_pl=10-0-0-0, threshold=5) - (Outbound Scores: blocking=0, detection=0, per_pl=0-0-0-0, threshold=4) - (SQLI=10, XSS=0, RFI=0, LFI=0, RCE=0, PHPI=0, HTTP=0, SESS=0, COMBINED_SCORE=10)"
+    ],
+    "URL": "/produtos?username=1%27%20or%20%271%27%20=%20%271&amp;password=1%27%20or%20%271%27%20=%20%271"
+  }
+]

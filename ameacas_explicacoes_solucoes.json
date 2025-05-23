@@ -1,0 +1,152 @@
+[
+    {
+        "Ameaças":"1. Phishing via e-mail da loja",
+        "Explicações das Ameaças":"1. Criminosos criam e-mails falsos se passando pela sua loja, pedindo que os clientes cliquem em links maliciosos. Isso pode prejudicar sua reputação e colocar seus clientes em risco.",
+        "Soluções":"1. Utilize autenticação SPF, DKIM e DMARC no seu domínio e oriente os clientes a sempre verificarem o e-mail de remetente."
+    },
+    {
+        "Ameaças":"2. Clonagem de site (falsa loja com o mesmo nome)",
+        "Explicações das Ameaças":"2. Hackers copiam sua loja e criam uma versão falsa com aparência idêntica, aplicando golpes em nome da sua marca.",
+        "Soluções":"2. Monitore registros DNS com ferramentas de proteção de marca e registre domínios parecidos com o seu para evitar uso indevido."
+    },
+    {
+        "Ameaças":"3. Roubo de dados de cartão de crédito",
+        "Explicações das Ameaças":"3. Invasores instalam scripts maliciosos no checkout do seu site, capturando informações de pagamento dos clientes.",
+        "Soluções":"3. Use um gateway de pagamento seguro e monitore mudanças no código-fonte do site."
+    },
+    {
+        "Ameaças":"4. Fraudes com boletos bancários",
+        "Explicações das Ameaças":"4. Hackers alteram o código do boleto gerado para que o pagamento vá para outra conta.",
+        "Soluções":"4. Utilize boletos com verificação automática do banco emissor e assine digitalmente os documentos."
+    },
+    {
+        "Ameaças":"5. Ataques DDoS na loja virtual",
+        "Explicações das Ameaças":"5. Sua loja fica fora do ar por sobrecarga gerada por milhares de acessos maliciosos.",
+        "Soluções":"5. Utilize serviços de mitigação de DDoS como Cloudflare e configure firewalls com limites de acesso."
+    },
+    {
+        "Ameaças":"6. Invasão via painel administrativo",
+        "Explicações das Ameaças":"6. Criminosos descobrem sua senha ou aproveitam falhas do CMS para acessar o painel e alterar produtos ou dados.",
+        "Soluções":"6. Use autenticação em dois fatores (2FA) e limite o IP de acesso ao painel."
+    },
+    {
+        "Ameaças":"7. Enganando clientes via links patrocinados falsos",
+        "Explicações das Ameaças":"7. Golpistas criam anúncios pagos no Google usando seu nome e redirecionam para páginas falsas.",
+        "Soluções":"7. Ative a verificação de identidade no Google Ads e monitore o uso da sua marca."
+    },
+    {
+        "Ameaças":"8. Roubo de login de funcionários",
+        "Explicações das Ameaças":"8. Senhas fracas ou reutilizadas por funcionários permitem o acesso não autorizado a painéis de venda e atendimento.",
+        "Soluções":"8. Faça treinamento de segurança e utilize senhas únicas com autenticação em dois fatores."
+    },
+    {
+        "Ameaças":"9. Golpes no WhatsApp usando o nome da loja",
+        "Explicações das Ameaças":"9. Alguém finge ser sua loja e envia mensagens falsas com promoções ou cobranças.",
+        "Soluções":"9. Verifique sua conta no WhatsApp Business e divulgue sempre o número oficial da loja."
+    },
+    {
+        "Ameaças":"10. Ataques por engenharia social ao SAC",
+        "Explicações das Ameaças":"10. Alguém finge ser um cliente ou colaborador para obter informações sigilosas via atendimento.",
+        "Soluções":"10. Crie protocolos rígidos de verificação de identidade em atendimentos."
+    },
+    {
+        "Ameaças":"11. Sequestro de domínio",
+        "Explicações das Ameaças":"11. Alguém tenta transferir seu domínio ou invadir o painel DNS para desviar tráfego.",
+        "Soluções":"11. Ative bloqueio de transferência no seu provedor de domínio e habilite 2FA."
+    },
+    {
+        "Ameaças":"12. Vazamento de dados de clientes",
+        "Explicações das Ameaças":"12. Informações como CPF, endereço e telefone ficam expostas por falhas de segurança na loja.",
+        "Soluções":"12. Use criptografia no banco de dados e revise permissões de acesso."
+    },
+    {
+        "Ameaças":"13. Redirecionamento malicioso após checkout",
+        "Explicações das Ameaças":"13. Após a compra, o cliente é redirecionado para um site suspeito. Pode ser um script injetado no front-end.",
+        "Soluções":"13. Monitore alterações em arquivos HTML\/CSS\/JS e use ferramentas de integridade."
+    },
+    {
+        "Ameaças":"14. Golpes com falsos comprovantes de pagamento",
+        "Explicações das Ameaças":"14. Clientes mal-intencionados enviam prints falsificados de transferências.",
+        "Soluções":"14. Confirme sempre no extrato bancário ou utilize automações de conciliação de pagamento."
+    },
+    {
+        "Ameaças":"15. Uso de bots para comprar estoques inteiros",
+        "Explicações das Ameaças":"15. Bots compram todos os produtos com objetivo de revender, impedindo compras reais.",
+        "Soluções":"15. Use CAPTCHAs, limite de unidades por CPF\/CNPJ e validações em tempo real."
+    },
+    {
+        "Ameaças":"16. Injeção de código malicioso via formulários",
+        "Explicações das Ameaças":"16. Usuários inserem comandos maliciosos nos campos de contato, buscando executar código no servidor.",
+        "Soluções":"16. Valide e sanitize todos os dados de entrada com filtros adequados."
+    },
+    {
+        "Ameaças":"17. Falhas em plugins ou temas de loja",
+        "Explicações das Ameaças":"17. Extensões vulneráveis do seu CMS podem ser porta de entrada para invasões.",
+        "Soluções":"17. Mantenha plugins sempre atualizados e instale apenas de fontes confiáveis."
+    },
+    {
+        "Ameaças":"18. Armazenamento inseguro de senhas de clientes",
+        "Explicações das Ameaças":"18. Senhas salvas em texto plano facilitam roubo em caso de vazamento.",
+        "Soluções":"18. Utilize hashing com algoritmos seguros (ex: bcrypt) para armazenamento de senhas."
+    },
+    {
+        "Ameaças":"19. Campanhas falsas em redes sociais",
+        "Explicações das Ameaças":"19. Contas falsas divulgam promoções usando sua marca para atrair vítimas.",
+        "Soluções":"19. Solicite verificação de conta, denuncie perfis falsos e informe seus canais oficiais."
+    },
+    {
+        "Ameaças":"20. Golpes com marketplaces falsos se passando por parceiros",
+        "Explicações das Ameaças":"20. Alguém cria um site idêntico ao de um marketplace e redireciona a vítima.",
+        "Soluções":"20. Monitore cópias de marca via Google Alerts e denuncie imediatamente os domínios."
+    },
+    {
+        "Ameaças":"21. Invasão por força bruta",
+        "Explicações das Ameaças":"21. Tentativas sucessivas de login com combinações de senha.",
+        "Soluções":"21. Use bloqueios por IP e limitação de tentativas no painel de login."
+    },
+    {
+        "Ameaças":"22. Desatualização de certificados HTTPS",
+        "Explicações das Ameaças":"22. O certificado de segurança vence e o navegador marca a loja como insegura.",
+        "Soluções":"22. Habilite renovação automática e monitore alertas do seu serviço de hospedagem."
+    },
+    {
+        "Ameaças":"23. Compartilhamento de senha entre funcionários",
+        "Explicações das Ameaças":"23. Reutilização de senhas compromete a rastreabilidade de ações e a segurança.",
+        "Soluções":"23. Crie acessos individuais com permissões específicas."
+    },
+    {
+        "Ameaças":"24. Armazenamento de imagens em servidores inseguros",
+        "Explicações das Ameaças":"24. Imagens com links embutidos podem ser utilizadas para redirecionar usuários.",
+        "Soluções":"24. Hospede imagens em servidores confiáveis e valide os uploads."
+    },
+    {
+        "Ameaças":"25. Abuso da política de reembolso",
+        "Explicações das Ameaças":"25. Clientes compram, recebem e depois pedem estorno injustificado.",
+        "Soluções":"25. Tenha política clara, use rastreamento e verificação de integridade dos pedidos."
+    },
+    {
+        "Ameaças":"26. Escaneamento automático de vulnerabilidades",
+        "Explicações das Ameaças":"26. Bots mapeiam falhas conhecidas para explorar seu site.",
+        "Soluções":"26. Use WAF (Web Application Firewall) e bloqueio de IPs suspeitos."
+    },
+    {
+        "Ameaças":"27. Golpes com cupons promocionais",
+        "Explicações das Ameaças":"27. Códigos de cupom vazados ou explorados antes da campanha causar prejuízo financeiro.",
+        "Soluções":"27. Gere cupons únicos e limite por usuário ou uso."
+    },
+    {
+        "Ameaças":"28. Substituição de QR Code em pagamentos",
+        "Explicações das Ameaças":"28. Um código QR legítimo é trocado por um falso com outra chave PIX.",
+        "Soluções":"28. Use PIX com verificação dinâmica e ofereça confirmação de CNPJ."
+    },
+    {
+        "Ameaças":"29. Invasão do painel de logística",
+        "Explicações das Ameaças":"29. Alguém altera endereços de entrega ou dados de envio.",
+        "Soluções":"29. Controle acessos e audite alterações em pedidos."
+    },
+    {
+        "Ameaças":"30. Tentativas de login via API sem autenticação",
+        "Explicações das Ameaças":"30. Alguém tenta explorar suas APIs expostas para acessar dados ou controlar processos.",
+        "Soluções":"30. Proteja as APIs com tokens de autenticação, limite IPs e use logs de acesso."
+    }
+]

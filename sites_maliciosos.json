@@ -1,0 +1,377 @@
+[
+    {
+        "Nº":1,
+        "URL":"https:\/\/drive-google.work",
+        "Descrição":"Finge ser o Google Drive para capturar credenciais de login."
+    },
+    {
+        "Nº":2,
+        "URL":"https:\/\/microsoftsupport.cloud",
+        "Descrição":"Imita o suporte da Microsoft para enganar usuários e obter acesso remoto."
+    },
+    {
+        "Nº":3,
+        "URL":"https:\/\/secure-login-paypal.com",
+        "Descrição":"Simula a página de login do PayPal para roubar informações financeiras."
+    },
+    {
+        "Nº":4,
+        "URL":"https:\/\/amazon-checkout.net",
+        "Descrição":"Replica a finalização de compra da Amazon para coletar dados de cartão de crédito."
+    },
+    {
+        "Nº":5,
+        "URL":"https:\/\/dropboxshare.live",
+        "Descrição":"Finge ser o Dropbox para induzir downloads de malware."
+    },
+    {
+        "Nº":6,
+        "URL":"https:\/\/web-whatsapp.netlify.app",
+        "Descrição":"Clona o WhatsApp Web para capturar mensagens e contatos."
+    },
+    {
+        "Nº":7,
+        "URL":"https:\/\/login-facebook-app.com",
+        "Descrição":"Imita o Facebook para roubar credenciais de acesso."
+    },
+    {
+        "Nº":8,
+        "URL":"https:\/\/outlook365-login.net",
+        "Descrição":"Simula o Outlook 365 para capturar informações corporativas."
+    },
+    {
+        "Nº":9,
+        "URL":"https:\/\/zoommeetinglive.com",
+        "Descrição":"Finge ser o Zoom para instalar spyware nos dispositivos."
+    },
+    {
+        "Nº":10,
+        "URL":"https:\/\/clientes-itau.app",
+        "Descrição":"Imita o Itaú para coletar dados bancários dos usuários."
+    },
+    {
+        "Nº":11,
+        "URL":"https:\/\/appleid-login.com",
+        "Descrição":"Finge ser a página de login da Apple para roubar IDs Apple."
+    },
+    {
+        "Nº":12,
+        "URL":"https:\/\/bankofamerica-secure.com",
+        "Descrição":"Simula o Bank of America para capturar informações financeiras."
+    },
+    {
+        "Nº":13,
+        "URL":"https:\/\/chasebank-login.net",
+        "Descrição":"Imita o Chase Bank para obter credenciais bancárias."
+    },
+    {
+        "Nº":14,
+        "URL":"https:\/\/dhl-tracking.info",
+        "Descrição":"Finge ser o DHL para induzir o download de malware."
+    },
+    {
+        "Nº":15,
+        "URL":"https:\/\/fedex-delivery-status.com",
+        "Descrição":"Simula o FedEx para enganar usuários sobre entregas falsas."
+    },
+    {
+        "Nº":16,
+        "URL":"https:\/\/netflix-account-verification.com",
+        "Descrição":"Imita a Netflix para coletar informações de login."
+    },
+    {
+        "Nº":17,
+        "URL":"https:\/\/spotify-login-authenticate.com",
+        "Descrição":"Finge ser o Spotify para roubar credenciais de acesso."
+    },
+    {
+        "Nº":18,
+        "URL":"https:\/\/instagram-security-alert.com",
+        "Descrição":"Simula alertas de segurança do Instagram para capturar dados."
+    },
+    {
+        "Nº":19,
+        "URL":"https:\/\/linkedin-profile-update.com",
+        "Descrição":"Imita o LinkedIn para obter informações profissionais."
+    },
+    {
+        "Nº":20,
+        "URL":"https:\/\/twitter-account-security.com",
+        "Descrição":"Finge ser o Twitter para roubar credenciais de acesso."
+    },
+    {
+        "Nº":21,
+        "URL":"https:\/\/paypal-verification-alert.com",
+        "Descrição":"Simula alertas de verificação do PayPal para enganar usuários."
+    },
+    {
+        "Nº":22,
+        "URL":"https:\/\/microsoft-office365-login.com",
+        "Descrição":"Imita o Office 365 para capturar informações corporativas."
+    },
+    {
+        "Nº":23,
+        "URL":"https:\/\/google-docs-share.com",
+        "Descrição":"Finge ser o Google Docs para induzir o download de malware."
+    },
+    {
+        "Nº":24,
+        "URL":"https:\/\/adobe-account-security.com",
+        "Descrição":"Simula alertas de segurança da Adobe para obter dados de login."
+    },
+    {
+        "Nº":25,
+        "URL":"https:\/\/ebay-purchase-confirmation.com",
+        "Descrição":"Imita o eBay para enganar usuários sobre compras falsas."
+    },
+    {
+        "Nº":26,
+        "URL":"https:\/\/icloud-security-alert.com",
+        "Descrição":"Finge ser a Apple para capturar IDs Apple e senhas."
+    },
+    {
+        "Nº":27,
+        "URL":"https:\/\/amazon-prime-verification.com",
+        "Descrição":"Simula a Amazon Prime para coletar informações de login."
+    },
+    {
+        "Nº":28,
+        "URL":"https:\/\/facebook-security-check.com",
+        "Descrição":"Imita o Facebook para enganar usuários sobre segurança da conta."
+    },
+    {
+        "Nº":29,
+        "URL":"https:\/\/google-security-alert.com",
+        "Descrição":"Finge ser o Google para capturar credenciais de acesso."
+    },
+    {
+        "Nº":30,
+        "URL":"https:\/\/netflix-payment-update.com",
+        "Descrição":"Simula a Netflix para enganar usuários sobre atualizações de pagamento."
+    },
+    {
+        "Nº":31,
+        "URL":"https:\/\/paypal-security-check.com",
+        "Descrição":"Imita o PayPal para capturar informações financeiras."
+    },
+    {
+        "Nº":32,
+        "URL":"https:\/\/appleid-verification.com",
+        "Descrição":"Finge ser a Apple para roubar IDs Apple e senhas."
+    },
+    {
+        "Nº":33,
+        "URL":"https:\/\/bankofamerica-login.com",
+        "Descrição":"Simula o Bank of America para obter credenciais bancárias."
+    },
+    {
+        "Nº":34,
+        "URL":"https:\/\/chasebank-security.com",
+        "Descrição":"Imita o Chase Bank para capturar informações financeiras."
+    },
+    {
+        "Nº":35,
+        "URL":"https:\/\/dhl-delivery-update.com",
+        "Descrição":"Finge ser o DHL para induzir o download de malware."
+    },
+    {
+        "Nº":36,
+        "URL":"https:\/\/fedex-tracking-alert.com",
+        "Descrição":"Simula o FedEx para enganar usuários sobre entregas falsas."
+    },
+    {
+        "Nº":37,
+        "URL":"https:\/\/spotify-account-verification.com",
+        "Descrição":"Finge ser o Spotify para roubar credenciais de acesso."
+    },
+    {
+        "Nº":38,
+        "URL":"https:\/\/instagram-login-alert.com",
+        "Descrição":"Imita o Instagram para capturar informações de login."
+    },
+    {
+        "Nº":39,
+        "URL":"https:\/\/linkedin-security-update.com",
+        "Descrição":"Simula o LinkedIn para obter informações profissionais."
+    },
+    {
+        "Nº":40,
+        "URL":"https:\/\/twitter-security-check.com",
+        "Descrição":"Finge ser o Twitter para roubar credenciais de acesso."
+    },
+    {
+        "Nº":41,
+        "URL":"https:\/\/microsoft-account-verification.com",
+        "Descrição":"Imita a Microsoft para capturar informações de login."
+    },
+    {
+        "Nº":42,
+        "URL":"https:\/\/google-drive-share.com",
+        "Descrição":"Finge ser o Google Drive para induzir o download de malware."
+    },
+    {
+        "Nº":43,
+        "URL":"https:\/\/adobe-login-alert.com",
+        "Descrição":"Simula alertas de login da Adobe para obter dados de acesso."
+    },
+    {
+        "Nº":44,
+        "URL":"https:\/\/ebay-account-security.com",
+        "Descrição":"Imita o eBay para enganar usuários sobre segurança da conta."
+    },
+    {
+        "Nº":45,
+        "URL":"https:\/\/icloud-login-verification.com",
+        "Descrição":"Finge ser a Apple para capturar IDs Apple e senhas."
+    },
+    {
+        "Nº":46,
+        "URL":"https:\/\/amazon-account-security.com",
+        "Descrição":"Simula a Amazon para coletar informações de login."
+    },
+    {
+        "Nº":47,
+        "URL":"https:\/\/facebook-login-alert.com",
+        "Descrição":"Imita o Facebook para enganar usuários sobre segurança da conta."
+    },
+    {
+        "Nº":48,
+        "URL":"https:\/\/google-account-verification.com",
+        "Descrição":"Finge ser o Google para capturar credenciais de acesso."
+    },
+    {
+        "Nº":49,
+        "URL":"https:\/\/netflix-security-check.com",
+        "Descrição":"Simula a Netflix para enganar usuários sobre segurança da conta."
+    },
+    {
+        "Nº":50,
+        "URL":"https:\/\/paypal-login-verification.com",
+        "Descrição":"Imita o PayPal para capturar informações financeiras."
+    },
+    {
+        "Nº":51,
+        "URL":"https:\/\/appleid-security-check.com",
+        "Descrição":"Finge ser a Apple para roubar IDs Apple e senhas."
+    },
+    {
+        "Nº":52,
+        "URL":"https:\/\/bankofamerica-security.com",
+        "Descrição":"Simula o Bank of America para obter credenciais bancárias."
+    },
+    {
+        "Nº":53,
+        "URL":"https:\/\/chasebank-login-alert.com",
+        "Descrição":"Imita o Chase Bank para capturar informações financeiras."
+    },
+    {
+        "Nº":54,
+        "URL":"https:\/\/dhl-tracking-update.com",
+        "Descrição":"Finge ser o DHL para induzir o download de malware."
+    },
+    {
+        "Nº":55,
+        "URL":"https:\/\/fedex-delivery-alert.com",
+        "Descrição":"Simula o FedEx para enganar usuários sobre entregas falsas."
+    },
+    {
+        "Nº":56,
+        "URL":"https:\/\/spotify-login-alert.com",
+        "Descrição":"Finge ser o Spotify para roubar credenciais de acesso."
+    },
+    {
+        "Nº":57,
+        "URL":"https:\/\/instagram-account-verification.com",
+        "Descrição":"Imita o Instagram para capturar informações de login."
+    },
+    {
+        "Nº":58,
+        "URL":"https:\/\/linkedin-login-alert.com",
+        "Descrição":"Simula o LinkedIn para obter informações profissionais."
+    },
+    {
+        "Nº":59,
+        "URL":"https:\/\/twitter-login-verification.com",
+        "Descrição":"Finge ser o Twitter para roubar credenciais de acesso."
+    },
+    {
+        "Nº":60,
+        "URL":"https:\/\/microsoft-login-alert.com",
+        "Descrição":"Imita a Microsoft para capturar informações de login."
+    },
+    {
+        "Nº":61,
+        "URL":"https:\/\/google-docs-share-alert.com",
+        "Descrição":"Finge ser o Google Docs para induzir o download de malware."
+    },
+    {
+        "Nº":62,
+        "URL":"https:\/\/adobe-account-verification.com",
+        "Descrição":"Simula alertas de verificação da Adobe para obter dados de acesso."
+    },
+    {
+        "Nº":63,
+        "URL":"https:\/\/ebay-login-alert.com",
+        "Descrição":"Imita o eBay para enganar usuários sobre segurança da conta."
+    },
+    {
+        "Nº":64,
+        "URL":"https:\/\/icloud-account-verification.com",
+        "Descrição":"Finge ser a Apple para capturar IDs Apple e senhas."
+    },
+    {
+        "Nº":65,
+        "URL":"https:\/\/amazon-login-alert.com",
+        "Descrição":"Simula a Amazon para coletar informações de login."
+    },
+    {
+        "Nº":66,
+        "URL":"https:\/\/facebook-account-verification.com",
+        "Descrição":"Imita o Facebook para enganar usuários sobre segurança da conta."
+    },
+    {
+        "Nº":67,
+        "URL":"https:\/\/google-login-alert.com",
+        "Descrição":"Finge ser o Google para capturar credenciais de acesso."
+    },
+    {
+        "Nº":68,
+        "URL":"https:\/\/netflix-login-verification.com",
+        "Descrição":"Simula a Netflix para enganar usuários sobre segurança da conta."
+    },
+    {
+        "Nº":69,
+        "URL":"https:\/\/paypal-account-verification.com",
+        "Descrição":"Imita o PayPal para capturar informações financeiras."
+    },
+    {
+        "Nº":70,
+        "URL":"https:\/\/appleid-login-alert.com",
+        "Descrição":"Finge ser a Apple para roubar IDs Apple e senhas."
+    },
+    {
+        "Nº":71,
+        "URL":"https:\/\/bankofamerica-login-alert.com",
+        "Descrição":"Simula o Bank of America para obter credenciais bancárias."
+    },
+    {
+        "Nº":72,
+        "URL":"https:\/\/chasebank-account-verification.com",
+        "Descrição":"Imita o Chase Bank para capturar informações financeiras."
+    },
+    {
+        "Nº":73,
+        "URL":"https:\/\/dhl-delivery-alert.com",
+        "Descrição":"Finge ser o DHL para induzir o download de malware."
+    },
+    {
+        "Nº":74,
+        "URL":"https:\/\/fedex-tracking-update.com",
+        "Descrição":"Simula o FedEx para enganar usuários sobre entregas falsas."
+    },
+    {
+        "Nº":75,
+        "URL":"https:\/\/spotify-account-verification.com",
+        "Descrição":"Finge ser o Spotify para roubar credenciais de acesso."
+    }
+]
